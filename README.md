@@ -13,18 +13,18 @@ A Python program that prints numbers from 1 to *n* in decimal, octal, hexadecima
 
 ## How to run
 
-1. Clone the repository:
+  1. Clone the repository:
  
- https://github.com/savinu-pixel/print-formatted-numbers/tree/main
+     https://github.com/savinu-pixel/print-formatted-numbers/tree/main
 
-2.Run the script:
+  2.Run the script:
 
- python formatter.py
+     python formatter.py
 
-3.Enter a positive integer when prompted,
-  e.g.: 10
+  3.Enter a positive integer when prompted,
+      e.g.: 10
   
-4.The program will print:
+  4.The program will print:
 
 
 -----------------Code snippet-----------------
