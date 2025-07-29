@@ -39,7 +39,8 @@ A Python program that prints numbers from 1 to *n* in decimal, octal, hexadecima
       10 12 A 1010
 
 
-    -----------------Code snippet-----------------
+  -----------------Code snippet-----------------
+    
     ----------------------------------------------
     def to_base(num, base):
         digits = "0123456789ABCDEF"
