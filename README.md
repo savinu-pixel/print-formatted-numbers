@@ -11,7 +11,7 @@ A Python program that prints numbers from 1 to *n* in decimal, octal, hexadecima
 - Custom formatting with aligned output
 - Easy to understand code demonstrating loops, conditions, and string formatting
 
-## How to run
+## How to run ##
 
   1. Clone the repository:
  
