@@ -14,9 +14,9 @@ A Python program that prints numbers from 1 to *n* in decimal, octal, hexadecima
 ## How to run
 
 1. Clone the repository:
-
- git clone https://github.com/yourusername/your-repo-name.git
- cd your-repo-name
+ 
+ # git clone https://github.com/yourusername/your-repo-name.git
+ # cd your-repo-name
 
 2.Run the script:
 
